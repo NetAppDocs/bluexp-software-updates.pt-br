@@ -1,0 +1,53 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/choose-ontap-910-later.html 
+keywords: choose ontap target version, ontap update recommendations, identify ontap target version 
+summary: Entenda os benefícios e os riscos de cada versão do ONTAP antes de atualizar o sistema de storage do ONTAP. 
+---
+= Escolha ONTAP target versão 9,10 ou posterior
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Antes de escolher a versão do ONTAP para o sistema de storage, é muito importante identificar os benefícios e entender os riscos associados à versão de destino do ONTAP.
+
+Você pode escolher a versão de destino e compará-la com a versão atual para entender os benefícios da atualização para a versão específica no ONTAP. Você também pode ver os riscos que serão resolvidos e os novos riscos (se houver) que surgirão na atualização para a versão específica do ONTAP.
+
+
+NOTE: Você pode usar esse recurso somente se estiver executando o ONTAP 9.10 ou versões posteriores.
+
+.Passos
+. Na navegação à esquerda do BlueXP , selecione *Saúde > atualizações de software*.
++
+É apresentada a lista de clusters que necessitam de uma atualização de software. Você pode atualizar para a versão de destino recomendada ou escolher outra versão.
+
+
+
+|===
+| Se você... | Faça isso... 
+
+
+ a| 
+Deseja atualizar para a versão recomendada
+ a| 
+. Na coluna *versão de destino*, clique em *comparar versões* para ver os benefícios de recursos e riscos da atualização para a versão ONTAP recomendada.
+. Selecione e visualize informações sobre os riscos que serão resolvidos, o risco que continuará a permanecer e os novos riscos que serão introduzidos após a atualização.
+. Opcionalmente, clique em *Transferir plano de atualização* para transferir a cópia do plano de atualização.
+. Clique em *Iniciar atualização* para iniciar o processo de atualização.
+
+
+
+
+ a| 
+Deseja escolher outra versão
+ a| 
+. Na coluna *versão de destino*, clique na lista suspensa e selecione *escolha outras versões*.
+. Selecione a versão para visualizar os benefícios dos recursos e riscos.
+. Selecione e visualize informações sobre os riscos que serão resolvidos, o risco que continuará a permanecer e os novos riscos que serão introduzidos após a atualização.
+. Opcionalmente, clique em *Transferir plano de atualização* para transferir a cópia do plano de atualização.
+. Clique em *Iniciar atualização* para iniciar o processo de atualização.
+
+
+|===

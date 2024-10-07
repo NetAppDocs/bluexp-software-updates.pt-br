@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: software updates, ontap update 
+summary: Entenda sobre os novos recursos e aprimoramentos introduzidos nas atualizações de software do BlueXP . 
+---
+= Novidades nas atualizações de software do BlueXP 
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Saiba o que há de novo nas atualizações de software do BlueXP .
+
+
+
+== 07 de agosto de 2024
+
+
+
+=== Atualização do ONTAP
+
+O serviço de atualizações de software da BlueXP  fornece uma experiência de atualização contínua aos usuários, mitigando riscos e garantindo que os clientes possam aproveitar totalmente os recursos do ONTAP.
+
+Saiba mais link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["Atualizações de software BlueXP"^]sobre o .

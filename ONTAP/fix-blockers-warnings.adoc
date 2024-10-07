@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/fix-blockers-warnings.html 
+keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings 
+summary: Corrija os bloqueadores de ONTAP e reconheça os avisos que estão impedindo que você conclua a atualização do ONTAP. 
+---
+= Corrigir e reconhecer bloqueadores de ONTAP
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Depois de identificar a versão de destino do ONTAP para o seu sistema de armazenamento ONTAP, você deve corrigir e reconhecer todos os bloqueadores e revisar os avisos antes de atualizar o sistema de armazenamento do ONTAP.
+
+Corrigir e reconhecer todos os bloqueadores é obrigatório e garante um processo de atualização de software contínuo.
+
+.Passos
+. Na navegação à esquerda do BlueXP , selecione *Saúde > atualizações de software*.
++
+É apresentada a lista de clusters que necessitam de uma atualização de software.
+
+. Identifique a versão de destino do ONTAP para o seu sistema de storage. Para obter informações sobre como identificar a versão de destino do ONTAP, link:../ONTAP/choose-ontap-910-later.html["Escolha ONTAP target versão 9,10 ou posterior"]consulte .
+. Depois de decidir sobre a versão de destino do ONTAP, clique em *Prepare for update* para iniciar o processo de atualização.
++
+É apresentada a lista de bloqueadores e avisos.
+
+. Selecione o bloqueador para ver as instruções para corrigir o bloqueador.
+. Execute manualmente as etapas fornecidas para corrigir o bloqueador.
+. Selecione os bloqueadores que foram corrigidos e clique em *Accept Selected* para confirmar que os bloqueadores foram corrigidos.
+
+
+
+NOTE: Você deve corrigir e reconhecer todos os bloqueadores para prosseguir com a atualização.
+
+. Clique no separador *Avisos* para rever os avisos antes de prosseguir com a atualização do software.
+. Clique no separador *reconhecer* para ver os bloqueadores que foram corrigidos.
+. Clique em *Continue to update* para prosseguir com o processo de atualização.
+

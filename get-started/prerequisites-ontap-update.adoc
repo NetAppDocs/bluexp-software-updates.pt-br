@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites-ontap-update.html 
+keywords: prerequisites for ontap update, ontap update requirements, ontap update versions 
+summary: Reveja os pré-requisitos e requisitos antes de prosseguir com a atualização do ONTAP. 
+---
+= Pré-requisitos para atualizar o ONTAP usando atualizações de software BlueXP 
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Comece verificando a prontidão do seu ambiente operacional, login, acesso à rede e navegador da Web.
+
+Para usar as atualizações de software do BlueXP , você deve garantir que seu ambiente atenda a todos os requisitos.
+
+* Uma organização BlueXP  está disponível.
+* Um ambiente de trabalho é configurado no BlueXP .
+* Os Privileges de administrador estão disponíveis para executar a atualização de software usando o Gerenciador de sistema.
+* As credenciais de administrador estão disponíveis para o cluster desejado durante a atualização de software.
+* Todos os nós no cluster estão enviando dados AutoSupport.
+* Todos os nós devem ser executados no ONTAP 9.10 ou versões posteriores.
+* Os nós não devem estar em uma configuração MetroCluster.
+

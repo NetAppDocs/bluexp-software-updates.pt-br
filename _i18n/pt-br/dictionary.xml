@@ -158,7 +158,6 @@
   <block id="a262e6e8b2140ed65b4662f6ea3826e9" category="section-title">Atualização do ONTAP</block>
   <block id="bfcca17c4ea8c7320a1a54960ce35444" category="paragraph">O serviço de atualizações de software da BlueXP  fornece uma experiência de atualização contínua aos usuários, mitigando riscos e garantindo que os clientes possam aproveitar totalmente os recursos do ONTAP.</block>
   <block id="8e28797de414b72e6beab6ed5932133f" category="inline-link-macro">Atualizações de software BlueXP</block>
-  <block id="3b51dbc206ff39db31b586cff27b62b6" category="paragraph">Saiba mais <block ref="5932964ef1a5389f9863c988396d1e93" category="inline-link-macro-rx"></block>sobre o .</block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">O NetApp fornece suporte para BlueXP  de várias maneiras. Amplas opções gratuitas de suporte autônomo estão disponíveis 24 horas por dia, 7 dias por semana, como artigos da base de conhecimento (KB) e um fórum da comunidade. O seu registo de suporte inclui suporte técnico remoto através de Bilheteira na Web.</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">Obtenha ajuda</block>
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">A NetApp oferece suporte ao BlueXP  e seus serviços de nuvem de várias maneiras. Amplas opções gratuitas de suporte autônomo estão disponíveis 24 horas por dia, 7 dias por semana, como artigos da base de conhecimento (KB) e um fórum da comunidade. O seu registo de suporte inclui suporte técnico remoto através de Bilheteira na Web.</block>
@@ -337,4 +336,5 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notas de lançamento</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">O que há de novo</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Conhecimento e apoio</block>
+  <block id="cf3625b0846a5497dd36ab2220da602a" category="paragraph">Saiba mais <block ref="4ef0c81e219f07a508ae115770245e4e" category="inline-link-macro-rx"></block>sobre o .</block>
 </blocks>

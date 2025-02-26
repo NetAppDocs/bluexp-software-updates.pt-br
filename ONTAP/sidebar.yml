@@ -2,11 +2,11 @@
 section: ontap
 title: Use as atualizações de software do BlueXP 
 entries:
-- title: Escolha a versão de destino do ONTAP
+- title: Compare as versões do ONTAP para entender os benefícios e riscos da atualização
   url: "/ONTAP/choose-ontap-910-later.html"
 - title: Corrija o bloqueador de ONTAP e confirme os avisos
   url: "/ONTAP/fix-blockers-warnings.html"
-- title: Atualização completa do sistema de armazenamento ONTAP
+- title: Inicie a atualização do sistema de armazenamento ONTAP
   url: "/ONTAP/update-storage-system.html"
 - title: Validar o estado da atualização do sistema de armazenamento ONTAP
   url: "/ONTAP/validate-storage-system-update.html"

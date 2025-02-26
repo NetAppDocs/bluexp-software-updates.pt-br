@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: get-started/software-updates-faq.html 
-keywords: ontap update faq, ontap update frequently asked questions, software updates faq, software updates frequently asked questions 
+keywords: ontap update faq, ontap update frequently asked questions, software updates faq, software updates frequently asked questions, troubleshooting 
 summary: Veja as respostas às perguntas mais frequentes sobre atualizações de software BlueXP . 
 ---
 = Perguntas frequentes sobre atualizações de software do BlueXP 
@@ -11,7 +11,7 @@ summary: Veja as respostas às perguntas mais frequentes sobre atualizações de
 
 
 [role="lead"]
-Este FAQ pode ajudar se você está apenas procurando uma resposta rápida para uma pergunta.
+Se você quiser saber mais sobre atualizações de software do BlueXP  ou precisar de ajuda para a solução de problemas, leia essas perguntas para obter uma resposta rápida.
 
 *Qual é o URL de atualizações do software BlueXP ?*
 

@@ -15,6 +15,16 @@ Saiba o que há de novo nas atualizações de software do BlueXP .
 
 
 
+== 02 de abril de 2025
+
+
+
+=== Riscos atenuados
+
+Na seção de resumo das atualizações de software do BlueXP , agora você pode ver o número total de riscos que podem ser mitigados pela atualização do sistema operacional. Isso permite que os usuários avaliem as melhorias de segurança e estabilidade em sua base de instalação.
+
+
+
 == 07 de agosto de 2024
 
 

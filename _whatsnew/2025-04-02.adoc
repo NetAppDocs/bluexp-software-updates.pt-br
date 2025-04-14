@@ -1,0 +1,9 @@
+= Riscos atenuados
+:allow-uri-read: 
+
+
+
+
+=== Riscos atenuados
+
+Na seção de resumo das atualizações de software do BlueXP , agora você pode ver o número total de riscos que podem ser mitigados pela atualização do sistema operacional. Isso permite que os usuários avaliem as melhorias de segurança e estabilidade em sua base de instalação.

@@ -341,4 +341,7 @@
   <block id="dcfbeb8f1660c404fb401cb23dc4a928" category="sidebar">Compare as versões do ONTAP para entender os benefícios e riscos da atualização</block>
   <block id="4b826e35792ea987dc5df57d49d94c3e" category="sidebar">Inicie a atualização do sistema de armazenamento ONTAP</block>
   <block id="c979f283726214fd17da9716a48f78f0" category="sidebar">Comece a usar as atualizações de software do BlueXP </block>
+  <block id="f50a226c5a51111405309ae78236d95d" category="doc">Riscos atenuados</block>
+  <block id="66fa090892a2bd81c896ab6fbf156b19" category="paragraph">Na seção de resumo das atualizações de software do BlueXP , agora você pode ver o número total de riscos que podem ser mitigados pela atualização do sistema operacional. Isso permite que os usuários avaliem as melhorias de segurança e estabilidade em sua base de instalação.</block>
+  <block id="47388f68695ab5799ff2adfb33bca00d" category="section-title">02 de abril de 2025</block>
 </blocks>

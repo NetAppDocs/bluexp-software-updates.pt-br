@@ -13,6 +13,9 @@ summary: Atualize seu sistema de armazenamento ONTAP para aproveitar os recursos
 [role="lead"]
 Depois de identificar a versão de destino do ONTAP, corrigir e confirmar todos os bloqueadores, agora é possível iniciar a atualização do sistema de storage do ONTAP.
 
+.Função BlueXP necessária:
+Administrador da organização, administrador de pasta ou projeto, administrador de armazenamento ou especialista em integridade do sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Saiba mais sobre as funções de acesso do BlueXP."^]
+
 .Passos
 . Na navegação à esquerda do BlueXP , selecione *Saúde > atualizações de software*.
 +

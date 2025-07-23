@@ -13,6 +13,9 @@ summary: Atualize facilmente o seu sistema de armazenamento ONTAP para aproveita
 [role="lead"]
 Você pode usar o serviço de atualizações de software da BlueXP  para permitir que os clientes otimizem as atualizações do ONTAP. Isso pode ajudar você a reduzir custos, acelerar workloads críticos e melhorar a segurança.
 
+.Função BlueXP necessária:
+Administrador da organização, administrador de pasta ou projeto, administrador de armazenamento, visualizador de armazenamento ou especialista em integridade do sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Saiba mais sobre as funções de acesso do BlueXP."^]
+
 O serviço de atualizações de software BlueXP  automatiza os processos de avaliação, Planejamento e execução. O consultor de atualização inteligente prevê quais versões se encaixam melhor no ambiente específico, recomendando versões para corrigir problemas, melhorar a eficiência e aumentar a segurança do sistema, permitindo que os clientes determinem a melhor opção para atender às suas necessidades. Em seguida, distribui o pacote de software e executa automaticamente a atualização não-distributiva automatizada (ANDU), independente dos serviços de suporte.
 
 

@@ -13,6 +13,9 @@ summary: Entenda os benefícios e os riscos de cada versão do ONTAP antes de at
 [role="lead"]
 É muito importante comparar e entender os benefícios e os riscos associados à versão de destino do ONTAP antes de atualizar a versão do ONTAP para o sistema de storage.
 
+.Função BlueXP necessária:
+Administrador da organização, administrador de pasta ou projeto, administrador de armazenamento ou especialista em integridade do sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Saiba mais sobre as funções de acesso do BlueXP."^]
+
 Você pode escolher a versão de destino e compará-la com a versão atual para entender os benefícios da atualização para a versão específica no ONTAP. Você também pode ver os riscos que serão resolvidos e os novos riscos (se houver) que surgirão na atualização para a versão específica do ONTAP.
 
 
@@ -47,7 +50,7 @@ Deseja escolher outra versão
 . Selecione a versão para visualizar os benefícios dos recursos e riscos.
 . Selecione e visualize informações sobre os riscos que serão resolvidos, o risco que continuará a permanecer e os novos riscos que serão introduzidos após a atualização.
 . Opcionalmente, clique em *Transferir plano de atualização* para transferir a cópia do plano de atualização.
-. Clique em *Iniciar atualização* para iniciar o processo de atualização.
+. Selecione *Iniciar atualização* para iniciar o processo de atualização.
 
 
 |===

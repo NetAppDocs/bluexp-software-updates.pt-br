@@ -13,6 +13,9 @@ summary: Valide o status da atualização do ONTAP para decidir as próximas eta
 [role="lead"]
 Pode utilizar as atualizações de software do BlueXP  para validar o estado da atualização do ONTAP.
 
+.Função BlueXP necessária:
+Administrador da organização, administrador de pasta ou projeto, administrador de armazenamento, visualizador de armazenamento ou especialista em integridade do sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Saiba mais sobre as funções de acesso do BlueXP."^]
+
 .Passos
 . Na navegação à esquerda do BlueXP , selecione *Saúde > atualizações de software*.
 . Clique na guia *Histórico* para exibir o status da atualização do ONTAP.

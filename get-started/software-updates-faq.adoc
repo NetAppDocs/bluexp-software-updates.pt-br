@@ -36,3 +36,5 @@ Isso se deve à versão atual do ONTAP e à indisponibilidade do BlueXP  Connec
 *O que eu preciso para descobrir clusters?*
 
 Para executar a atualização do ONTAP para o cluster desejado, você precisa do IP do cluster do ONTAP e das credenciais de administrador para se conetar ao cluster. Como parte da descoberta de cluster, você precisa fornecer esses detalhes para que a atualização do ONTAP possa ser executada automaticamente.
+
+Você também precisa ter uma das seguintes funções de acesso: administrador da organização, administrador de pasta ou projeto ou administrador de armazenamento.
